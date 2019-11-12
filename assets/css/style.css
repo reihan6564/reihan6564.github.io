@@ -2,8 +2,16 @@
     width: 100%;
 }
 
+.kolom {
+    padding-right: 0px;
+}
+
 @media (min-width: 992px) {
     .gambar {
         width: 550px;
+    }
+
+    .kolom {
+        padding-right: 59px;
     }
 }
